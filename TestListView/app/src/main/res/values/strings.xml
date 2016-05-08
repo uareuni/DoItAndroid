@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestListView</string>
+    <string name="selected_name">선택된 이름</string>>
+</resources>
