@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         spinner = (Spinner) findViewById(R.id.spinner);
+        
 
         // 이번에는 BaseAdapter를 상속한 class를 만들지 않고 미리 정의된걸 사용해볼게요.간편하게.
         //ArrayAdapter는 자주 사용하는 adapter입니다.
